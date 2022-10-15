@@ -1,0 +1,13 @@
+.button {
+  background-color: beige;
+  border: 1px solid #fff;
+  border-radius: 4px;
+  cursor: pointer;
+  margin: 20px;
+  
+ 
+}
+
+.button:hover {
+  background-color: burlywood;
+}
